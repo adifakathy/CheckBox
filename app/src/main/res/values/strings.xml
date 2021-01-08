@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CheakBox and Radiobutton</string>
+    <string name="title_text">what do you want to buy : </string>
+    <string name="gendertitle_text">Which gender you are :</string>
+    <string name="milk_text">milk</string>
+    <string name="suger_text">suger</string>
+    <string name="water_text">water</string>
+    <string name="button_text">show</string>
+    <string name="male_text">Male</string>
+    <string name="female_text">Female</string>
+    <string name="show_text">Submit</string>
+</resources>
